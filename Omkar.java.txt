@@ -1,0 +1,8 @@
+class Omkar
+{    
+     public class void main( String args[] )
+       {
+          int a=20,b=15;
+          system.out.println("addition="+(a+b));
+        } 
+}
